@@ -1,2 +1,2 @@
-# ecommerce_eshikhonlaravel
+# ecommerce_EshikhonLaravel
 ecommerce_eshikhonlaravel112023
